@@ -5,7 +5,7 @@
 
   - [Active Directory Home Lab](https://github.com/nkolke/ActiveDirectoryLab/tree/main)
   - [Azure Sentinel Lab]()
-  - [Azure Sentinel Lab]()
+  - [Azure Sentinel Lab](https://github.com/nkolke/AzureSentinelLab1)
 
 
 <h2>✔ Certifications</h2>
